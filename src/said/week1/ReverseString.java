@@ -1,4 +1,4 @@
-package week1;
+package said.week1;
 
 public class ReverseString {
 
